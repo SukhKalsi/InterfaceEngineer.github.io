@@ -3,6 +3,7 @@ body {
   border-top: 8px solid #148e28;
   font-family: 'Open Sans', helvetica, sans-serif;
   font-weight: 400;
+  margin: 0;
   text-align: center;
 }
 h1 {
@@ -14,6 +15,7 @@ p {
   color: rgba(0, 0, 0, 0.87);
 }
 small {
+  font-size: 0.6rem;
   font-weight: 300;
 }
 main {
